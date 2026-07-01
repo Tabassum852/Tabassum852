@@ -55,10 +55,12 @@ AI-powered traffic management system using OpenCV, Computer Vision and Machine L
 **Tech:** Python • OpenCV • Computer Vision • Machine Learning • AI
 
 ## 🏅 Certifications
-- Python (Add when completed)
-- SQL (Add when completed)
-- Machine Learning (Add when completed)
-- Artificial Intelligence (Add when completed)
+- Python 
+- SQL 
+- Frontend Developer
+- Agentforce
+- AWS
+  
 
 ## 🌱 Currently Learning
 - Web Development
